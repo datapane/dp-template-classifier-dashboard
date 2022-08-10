@@ -11,6 +11,10 @@ The template can be downloaded directly in archive file format, or directly thro
 
 `datapane template dp-datapane-classifier-dashboard`
 
+# Preview
+
+<img width="400" alt="preview" src="https://user-images.githubusercontent.com/15690380/183948469-c76fa50f-e0a2-438a-b13c-9e58d6071c1c.png">
+
 # Dependencies
 
 This template may require additional third-party packages. A full list of required packages can be found in `pyproject.toml`
