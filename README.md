@@ -25,4 +25,4 @@ This template may require additional third-party packages. A full list of requir
 
 # How to create a new Datapane template
 
-Visit [datapane/dp-template](https://github.com/datapane/dp-template-classifier-dashboard) for instructions on how to create a new Datapane template.
+Visit [datapane/dp-template](https://github.com/datapane/dp-template) for instructions on how to create a new Datapane template.
